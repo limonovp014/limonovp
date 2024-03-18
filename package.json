@@ -1,0 +1,28 @@
+{
+  "name": "limonovp",
+  "version": "1.0.0",
+  "description": "Limonovp is a Node.js module for performing various quantum computing operations. It provides functions for creating superpositions, entangling qubits, and measuring quantum states.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limonovp014/limonovp"
+  },
+  "dependencies": {
+	  "grommailpasha-module": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"grommailpasha": "1.0.0",
+"donaldrodriguez-os": "1.0.0",
+"squarunblownett-jps": "1.0.0",
+"cell-potapovvlad": "1.0.0",
+    "quantum-library": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limonovp014/limonovp/issues"
+  },
+  "homepage": "https://github.com/limonovp014/limonovp#readme"
+}
